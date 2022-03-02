@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\Timer\bin\Debug\Timer.exe.config
+D:\cat32tw\Desktop\Timer\bin\Debug\Timer.exe
+D:\cat32tw\Desktop\Timer\bin\Debug\Timer.pdb
+D:\cat32tw\Desktop\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\Timer\obj\Debug\Timer.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\Timer\obj\Debug\Timer.Form1.resources
+D:\cat32tw\Desktop\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\cat32tw\Desktop\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\Timer\obj\Debug\Timer.exe
+D:\cat32tw\Desktop\Timer\obj\Debug\Timer.pdb
